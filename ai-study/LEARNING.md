@@ -8,34 +8,35 @@ Build goal: AI 에이전트
 
 ## Placement
 - Date: 2026-10-23
-- Score: 3/10 (Math & Statistics 1/2, Classical ML 1/2, Deep Learning 0/2, NLP & Transformers 0/2, Applied AI 1/2)
-- Entry point: Phase 1: Math Foundations
+- Score: self-selected
+  <!-- Earlier placement quiz: 3/10 (Math & Statistics 1/2, Classical ML 1/2, Deep Learning 0/2, NLP & Transformers 0/2, Applied AI 1/2). Learner chose to start at Phase 14 and go back to earlier phases when stuck. -->
+- Entry point: Phase 14: Agent Engineering
 - Pace: ~10/week
 
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
 | 0 | Setup & Tooling | Skip | -- |
-| 1 | Math Foundations | Do | 23 |
-| 2 | ML Fundamentals | Do | 26 |
-| 3 | Deep Learning Core | Do | 15 |
-| 4 | Computer Vision | Do | 27 |
-| 5 | NLP — Foundations to Advanced | Do | 30 |
-| 6 | Speech & Audio | Do | 18 |
-| 7 | Transformers Deep Dive | Do | 14 |
-| 8 | Generative AI | Do | 14 |
-| 9 | Reinforcement Learning | Do | 13 |
-| 10 | LLMs from Scratch | Do | 26 |
-| 11 | LLM Engineering | Do | 19 |
-| 12 | Multimodal AI | Do | 65 |
-| 13 | Tools & Protocols | Do | 76 |
+| 1 | Math Foundations | Skip | -- |
+| 2 | ML Fundamentals | Skip | -- |
+| 3 | Deep Learning Core | Skip | -- |
+| 4 | Computer Vision | Skip | -- |
+| 5 | NLP — Foundations to Advanced | Skip | -- |
+| 6 | Speech & Audio | Skip | -- |
+| 7 | Transformers Deep Dive | Skip | -- |
+| 8 | Generative AI | Skip | -- |
+| 9 | Reinforcement Learning | Skip | -- |
+| 10 | LLMs from Scratch | Skip | -- |
+| 11 | LLM Engineering | Skip | -- |
+| 12 | Multimodal AI | Skip | -- |
+| 13 | Tools & Protocols | Skip | -- |
 | 14 | Agent Engineering | Do | 55 |
 | 15 | Autonomous Systems | Do | 20 |
 | 16 | Multi-Agent & Swarms | Do | 28 |
 | 17 | Infrastructure & Production | Do | 34 |
 | 18 | Ethics, Safety & Alignment | Do | 31 |
 | 19 | Capstone Projects | Do | 620 |
-| | **Total (Review + Do)** | | **1154** |
+| | **Total (Review + Do)** | | **788** |
 
 ## Progress log
 | Date | Lesson | Quiz | Note |
