@@ -42,5 +42,6 @@ Build goal: AI 에이전트
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-10-23 | 14/01-the-agent-loop | 2/2 | Max-turns trace was new (answered "모르겠어" before walkthrough); asked what a framework is — explained via shopping-mall-solution analogy |
+| 2026-10-23 | 14/02-rewoo-plan-and-execute | 2/2 | Answered "모르겠어" on where a worker error goes (→ Solver sees it as a string) before explanation; correctly traced #E1 substitution and picked ReWOO for fixed 공구 workflow vs ReAct for 고객 응대 |
 
 ## Review queue
