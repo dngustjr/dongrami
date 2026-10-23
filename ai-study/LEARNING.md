@@ -41,5 +41,6 @@ Build goal: AI 에이전트
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-10-23 | 14/01-the-agent-loop | 2/2 | Max-turns trace was new (answered "모르겠어" before walkthrough); asked what a framework is — explained via shopping-mall-solution analogy |
 
 ## Review queue
