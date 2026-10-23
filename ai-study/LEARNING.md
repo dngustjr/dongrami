@@ -44,6 +44,7 @@ Build goal: AI 에이전트
 | 2026-10-23 | 14/01-the-agent-loop | 2/2 | Max-turns trace was new (answered "모르겠어" before walkthrough); asked what a framework is — explained via shopping-mall-solution analogy |
 | 2026-10-23 | 14/02-rewoo-plan-and-execute | 2/2 | Answered "모르겠어" on where a worker error goes (→ Solver sees it as a string) before explanation; correctly traced #E1 substitution and picked ReWOO for fixed 공구 workflow vs ReAct for 고객 응대 |
 | 2026-10-23 | 14/03-reflexion-verbal-rl | 1/2 | 평가자/반성문 추적과 '외부 실패 vs 자기 실수' 구분, 오래된 중요 반성문 소실은 정확히 답함; memory rot을 저장소 소실(영속성)로 착각 |
+| 2026-10-23 | 14/04-tree-of-thoughts-lats | 2/2 | 워밍업(Reflexion) 2/2. 채점 엉터리면 엉뚱한 길, c≈0이면 한 길만 파는 것을 바로 답함; 장난감 LATS가 숫자를 다 안 쓴 24를 '좋은 해'로 본 것(약한 채점 신호)을 실행으로 확인, 286 vs 152 확장 비용 대비 쓰지 말아야 한다고 정확히 판단 |
 
 ## Review queue
 - 14/03 Reflexion: memory rot = 저장 소실이 아니라 낡거나 틀린 반성문이 쌓여 이후 시도를 편향시키는 것 (TTL·중복제거·압축으로 대응)
